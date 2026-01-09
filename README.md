@@ -6,3 +6,7 @@
 5. Dodat kratak opis.
 6. Dodat unordered list za sastojke.
 7. Dodat ordered list za uputstvo.
+8. Dodata slika smutija od jagode.
+9. Dodata stranica recept za kaša od jagoda.
+10. Dodat link za recept kaša od jagoda na index.html.
+    
