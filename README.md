@@ -9,4 +9,5 @@
 8. Dodata slika smutija od jagode.
 9. Dodata stranica recept za kaša od jagoda.
 10. Dodat link za recept kaša od jagoda na index.html.
+11. Dodata slika za nov recept.
     
