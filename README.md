@@ -10,4 +10,8 @@
 9. Dodata stranica recept za kaša od jagoda.
 10. Dodat link za recept kaša od jagoda na index.html.
 11. Dodata slika za nov recept.
+12. Dodat nov recept.
+13. Dodat link za recept supa od kupusa.
+14. Promenjen link za Chicken noodle casserole.
+15. Izmenjea lista recepata u unordered list.
     
